@@ -11,7 +11,7 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_ble
+  - board: seeed xiao ble
     shield: tomo_left
-  - board: seeeduino_xiao_ble
+  - board: seeed xiao ble
     shield: tomo_right
