@@ -1,0 +1,16 @@
+if SHIELD_KIAI_RIGHT
+
+config ZMK_KEYBOARD_NAME
+	default "TOMO"
+
+config ZMK_SPLIT_BLE_ROLE_CENTRAL
+	default y
+
+endif
+
+if SHIELD_TOMO_RIGHT || SHIELD_TOMO_LEFT 
+
+config ZMK_SPLIT
+	default y
+
+endif
