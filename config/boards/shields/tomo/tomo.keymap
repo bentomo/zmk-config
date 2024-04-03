@@ -21,7 +21,7 @@
 &kp TAB    &kp Q      &kp W      &kp E  &kp R      &kp T      &kp Y     &kp U      &kp I      &kp O           &kp P          &kp LGUI
 &kp ESC    &kp A      &kp S      &kp D  &kp F      &kp G      &kp H     &kp J      &kp K      &kp L           &kp SEMI       &kp SQT
 &kp LSHFT  &kp Z      &kp X      &kp C  &kp V      &kp B      &kp N     &kp M      &kp COMMA  &kp DOT         &kp FSLH       &kp LEFT_ALT
-           &kp LG(C)  &mo 2  &kp LCTRL  &kp RET &kp LG(V)  &kp LG(LS(N4)) &kp BSPC  &kp SPACE  &mo 1      &kp LC(LG(Q))
+           &kp LG(C)  &kp LG(V)  &mo 2  &kp LCTRL  &kp RET  &kp BSPC  &kp SPACE  &mo 1  &kp LG(LS(N4))     &kp LC(LG(Q))
             >;
         };
 

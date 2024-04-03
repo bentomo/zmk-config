@@ -1,6 +1,6 @@
 file_format: "1"
 id: tomo
-name: TOMO
+name: TomoDactyl
 type: shield
 url: https://github.com/bentomo/zmk-config
 requires: [seeeduino_xiao_ble]
