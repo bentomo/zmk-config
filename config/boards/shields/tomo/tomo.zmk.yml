@@ -3,7 +3,7 @@ id: tomo
 name: TomoDactyl
 type: shield
 url: https://github.com/bentomo/zmk-config
-requires: [seeduino_xiao_ble]
+requires: [seeeduino_xiao_ble]
 features:
   - keys
 siblings:
